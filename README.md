@@ -1,6 +1,6 @@
 # CourseWork
  
- This was a course work that I did for my Object-oriented programming subject in my 2nd semester as a software developing student.  
+ This was a course work that I did for my Object-oriented programming subject in my 2nd semester as a software engineering student.  
  I wasn't permitted to use a game engine or any other game development tools.  
    
    

@@ -1,0 +1,19 @@
+﻿  Source.cpp
+C:\Users\PC\Projects\KursinisDarbas\KursinisDarbas\Classes_Functions.h(219,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Projects\KursinisDarbas\KursinisDarbas\Classes_Functions.h(219,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Projects\KursinisDarbas\KursinisDarbas\Source.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\PC\Projects\KursinisDarbas\KursinisDarbas\Source.cpp(170,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Projects\KursinisDarbas\KursinisDarbas\Source.cpp(220,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Projects\KursinisDarbas\KursinisDarbas\Source.cpp(223,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Projects\KursinisDarbas\KursinisDarbas\Source.cpp(223,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Projects\KursinisDarbas\KursinisDarbas\Source.cpp(230,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Projects\KursinisDarbas\KursinisDarbas\Source.cpp(234,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Projects\KursinisDarbas\KursinisDarbas\Source.cpp(234,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Projects\KursinisDarbas\KursinisDarbas\Source.cpp(252,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Projects\KursinisDarbas\KursinisDarbas\Source.cpp(270,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Projects\KursinisDarbas\KursinisDarbas\Source.cpp(342,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Projects\KursinisDarbas\KursinisDarbas\Source.cpp(345,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Projects\KursinisDarbas\KursinisDarbas\Source.cpp(356,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Projects\KursinisDarbas\KursinisDarbas\Source.cpp(23,11): warning C4101: 'event': unreferenced local variable
+C:\Users\PC\Projects\KursinisDarbas\KursinisDarbas\Classes_Functions.h(151): warning C4715: 'Spell::Draw': not all control paths return a value
+  KursinisDarbas.vcxproj -> C:\Users\PC\Projects\KursinisDarbas\Debug\KursinisDarbas.exe
